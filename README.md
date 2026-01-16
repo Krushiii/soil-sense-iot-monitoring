@@ -1,4 +1,3 @@
-# soil-sense-iot-monitoring
 # Soil Sense – Smart IoT-Based Soil Monitoring System
 
 ## Project Overview
